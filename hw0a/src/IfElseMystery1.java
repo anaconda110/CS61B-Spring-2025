@@ -28,6 +28,10 @@ public class IfElseMystery1 {
 }
 
 /* Before running the code, type your answer below.
+13 21
+5 6
+6 5
+7 11
 
 TODO: Write output here
 
